@@ -398,7 +398,7 @@ please share them in the comments.
 [selenium]: http://docs.seleniumhq.org/
 [phantomjs]: http://phantomjs.org/
 [casperjs]: http://casperjs.org/
-[test-script]: https://github.com/mloberg/mlo.io/blob/cb1e3bca2b1e9c1d303570431d2d1f180eeccc60/test.js
+[test-script]: https://github.com/ivorisoutdoors/website/blob/cb1e3bca2b1e9c1d303570431d2d1f180eeccc60/test.js
 [backstopjs]: https://github.com/garris/BackstopJS
 [wraith]: http://bbc-news.github.io/wraith/index.html
 [phantomcss]: https://github.com/Huddle/PhantomCSS

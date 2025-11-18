@@ -5,7 +5,7 @@ proof = false
 +++
 _Author's Note: Since posting this, Tea-Fueled Does has been deprecated. We recommend to check out [Symfony](https://symfony.com/doc/current/book/index.html) or [Laravel](http://laravel.com/). These are awesome and modern PHP frameworks._
 
-Earlier this week I publicly released [Tea-Fueled Does version 2](https://github.com/mloberg/Tea-Fueled-Does). An open-source PHP 5.3 framework written by myself.
+Earlier this week I publicly released [Tea-Fueled Does version 2](https://github.com/ivorisoutdoors/Tea-Fueled-Does). An open-source PHP 5.3 framework written by myself.
 
 #### A Little History
 
@@ -41,10 +41,10 @@ I've licensed TFD under the unlicense, so you can do whatever you want with it. 
 
 #### Getting TFD
 
-TFD must have you at least a little interested, you're still reading. The next step is to get a copy of TFD and start playing with it. Getting TFD is really easy. It's hosted on [GitHub](https://github.com/mloberg/Tea-Fueled-Does), so you can download it there.
+TFD must have you at least a little interested, you're still reading. The next step is to get a copy of TFD and start playing with it. Getting TFD is really easy. It's hosted on [GitHub](https://github.com/ivorisoutdoors/Tea-Fueled-Does), so you can download it there.
 
 #### Getting Involved
 
-If you like this project, you can get involved. You can fork this project, submit pull requests, ask for features, or whatever. If you have questions you can send me a message on [Github](https://github.com/mloberg), or mention me on [Twitter](http://twitter.com/mloberg), and I'll try to respond to you.
+If you like this project, you can get involved. You can fork this project, submit pull requests, ask for features, or whatever. If you have questions you can send me a message on [Github](https://github.com/ivorisoutdoors), or mention me on [Twitter](http://twitter.com/mloberg), and I'll try to respond to you.
 
 Thanks and happy building.

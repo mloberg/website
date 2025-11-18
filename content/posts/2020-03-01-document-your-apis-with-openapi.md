@@ -115,7 +115,7 @@ components:
         # rest of the schema
 ```
 
-To get a single file, we use a [npm module](https://github.com/mloberg/openapi-stitcher)
+To get a single file, we use a [npm module](https://github.com/ivorisoutdoors/openapi-stitcher)
 that I wrote. It deep merges files matching a pattern and outputs to a single
 file.
 

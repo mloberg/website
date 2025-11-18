@@ -246,4 +246,4 @@ for more information.
 [ghpages-cname]: https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
 [ghpages-arecord]: https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/
 [ghpages-jekyll3]: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
-[babl]: https://github.com/mloberg/Babl/tree/gh-pages
+[babl]: https://github.com/ivorisoutdoors/Babl/tree/gh-pages

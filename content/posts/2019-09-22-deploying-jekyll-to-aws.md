@@ -28,5 +28,5 @@ Thanks to [JekyllConf](https://jekyllconf.com/) and
 
 * [AWS Documentation on Static Sites](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)
 * [AWS Documentation on using a Custom Domain](https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html)
-* [CircleCI Config for this site](https://github.com/mloberg/mlo.io/blob/5e38229ec7b7ed33a772e47d9f80d4173661d431/.circleci/config.yml)
+* [CircleCI Config for this site](https://github.com/ivorisoutdoors/website/blob/5e38229ec7b7ed33a772e47d9f80d4173661d431/.circleci/config.yml)
 * [Travis Example](/blog/2016/11/15/advance-jekyll/#automated-deployments)

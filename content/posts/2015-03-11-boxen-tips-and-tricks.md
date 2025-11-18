@@ -198,7 +198,7 @@ In additional to modules, you can also continue to make changes individually to 
 
 ### Bonus: Custom PHP Project Module
 
-As a bonus, I've moved out my PHP specific items from my common module and included some usages. You can see them at this [Gist](https://gist.github.com/mloberg/5e721a401506d96faea5).
+As a bonus, I've moved out my PHP specific items from my common module and included some usages. You can see them at this [Gist](https://gist.github.com/ivorisoutdoors/5e721a401506d96faea5).
 
 ## Hiera
 
@@ -216,6 +216,6 @@ No need to fork and make that change in the code.
 
 ## Hacking Further
 
-Once you get the hang of Puppet, you can start to do some really cool things in Boxen. I wrote a [module](https://github.com/mloberg/puppet-python) that installs [pyenv](https://github.com/yyuu/pyenv) to let you manage different versions of Python.
+Once you get the hang of Puppet, you can start to do some really cool things in Boxen. I wrote a [module](https://github.com/ivorisoutdoors/puppet-python) that installs [pyenv](https://github.com/yyuu/pyenv) to let you manage different versions of Python.
 
 Let me know in the comments if you have any tips or tricks with Boxen, or any cool Boxen modules you've written.

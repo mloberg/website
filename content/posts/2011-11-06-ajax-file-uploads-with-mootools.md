@@ -9,7 +9,7 @@ I've been working on redoing my personal site; making it responsive and easier f
 
 Anyone who has tried to upload files via Ajax knows up until recently there was no true way of ajax file uploads. If you wanted to upload a file, you had to use the iFrame hack or use a Flash script to do it. But with new technologies, it has become possible to truly upload files with Ajax. The technology that's used is called FormData. This isn't available in all browsers, so you'll still have to have a fallback for older browsers. If you want to learn how to work with FormData, there's a really nice [tutorial](http://net.tutsplus.com/tutorials/javascript-ajax/uploading-files-with-ajax/) on Nettuts+ about ajax file uploading with jQuery. This tutorial didn't transfer over to MooTools, however. The MooTools Request class doesn't seem to support file uploads. I did a little researching around on the internet and found another MooTools plugin that allowed for Ajax file uploads, but there were a couple issues with it. First it required that a form tag was being used, second it only allowed for one upload input, third it turned that into a multi file upload input and added a lot of extra markup to the form. This didn't work for me at all. I wanted to be able to not have a form element, allow for multiple file inputs (but not a multi file input), and I didn't want extra markup inserted into my page. I took part of the source code (the part that actually did the file upload) and modified it.
 
-{{< gist mloberg 1342473 File.Upload.js >}}
+{{< gist ivorisoutdoors 1342473 File.Upload.js >}}
 
 (Full source with examples at [https://gist.github.com/1342473](https://gist.github.com/1342473).)
 

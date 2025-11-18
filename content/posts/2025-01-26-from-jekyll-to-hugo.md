@@ -87,11 +87,11 @@ Hugo has other neat built-in [Shortcodes](https://gohugo.io/shortcodes/), like
 [YouTube](https://gohugo.io/shortcodes/youtube/) and [Gists](https://gohugo.io/shortcodes/gist/).
 
 {{< highlight go-template >}}
-{{</* gist mloberg id */>}}
+{{</* gist ivorisoutdoors id */>}}
 {{< /highlight >}}
 
 You can write your own Shortcodes. For example, I have a couple pages that include
-links to slides, so I created a [Speaker Deck](https://github.com/mloberg/mlo.io/blob/46fbd981f5c04c33e586df30abfa7482d7546fcd/layouts/shortcodes/speakerdeck.html)
+links to slides, so I created a [Speaker Deck](https://github.com/ivorisoutdoors/website/blob/46fbd981f5c04c33e586df30abfa7482d7546fcd/layouts/shortcodes/speakerdeck.html)
 shortcode. Now I can include slides with:
 
 {{< highlight go-template >}}

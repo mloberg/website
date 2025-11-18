@@ -7,7 +7,7 @@ Last week I heard about [popcorn.js](http://popcornjs.org/), a Mozilla project t
 
 One of the uses I thought of right away was code tutorials. You should display the source code you are talking about and then what that source code does. With the webpage plugin, you can easily show an example, but displaying source code is a little more difficult. With the available plugins, there's not really a good way. So I dived in to what [documentation there is](hhttp://mozilla.github.io/popcorn-docs/addon-development/#Plugins) on writing plugins and came up with the Popcorn Source Code Plugin. Make sure this goes after popcorn.js and before your script.
 
-{{< gist mloberg 1364481 >}}
+{{< gist ivorisoutdoors 1364481 >}}
 
 If you haven't used Popcorn yet, I recommend checking out [A Look at Popcorn](http://net.tutsplus.com/articles/news/a-look-at-popcorn/) over at Nettuts+.
 

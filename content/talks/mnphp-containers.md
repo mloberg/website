@@ -5,7 +5,7 @@ proof = false
 +++
 {{< slides "matthewloberg" "docker" >}}
 
-[Demo code](https://github.com/mloberg/laravel-docker-compose-example)
+[Demo code](https://github.com/ivorisoutdoors/laravel-docker-compose-example)
 
 ### References
 
@@ -23,5 +23,5 @@ proof = false
 * [Docker Container Anti Patterns](https://blog.arungupta.me/docker-container-anti-patterns/)
 * [Docker Anti Patterns](https://gist.github.com/Faheetah/a2a401a01d2d56fa7d1a9d7ab0d2831b)
 * [Docker multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
-* [Composer via Docker](https://github.com/mloberg/dotfiles/blob/f24f3239af62044ea1ac0d018c822224dddc499b/bash.d/php.bash#L10)
+* [Composer via Docker](https://github.com/ivorisoutdoors/dotfiles/blob/f24f3239af62044ea1ac0d018c822224dddc499b/bash.d/php.bash#L10)
 * [Jess Frazelle's Dockerfiles](https://github.com/jessfraz/dockerfiles)

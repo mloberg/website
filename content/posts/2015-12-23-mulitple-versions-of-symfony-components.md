@@ -172,7 +172,7 @@ after_success:
 _Update 12/27/15_: As some commenters have pointed out, Symfony 2.4, 2.5, and 2.6
 are no longer supported. You can skip these in your Travis builds if you please.
 
-[file-loader]: https://github.com/mloberg/FileLoader
+[file-loader]: https://github.com/ivorisoutdoors/FileLoader
 [travis]: https://travis-ci.org/
 [travis-env-variables]: https://docs.travis-ci.com/user/environment-variables/
 [travis-matrix]: https://docs.travis-ci.com/user/customizing-the-build/#Build-Matrix
